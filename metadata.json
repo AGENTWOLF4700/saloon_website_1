@@ -1,0 +1,6 @@
+{
+  "name": "Glow & Style Salon — Premium Salon Website Template",
+  "description": "A luxury, mobile-optimized, responsive website template for boutique hair and beauty salons with instant WhatsApp appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
